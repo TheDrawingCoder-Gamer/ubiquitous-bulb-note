@@ -1,0 +1,57 @@
+# Anyland
+- [ ] Finish Team Ben Rebirth
+  - [x] Add Kitchen
+  - [ ] Add Bedroom
+  - [ ] Create New Movie Theater
+  - [ ] Add Living Room
+    - [ ] Create Table
+    - [ ] Hang More Posters (?)
+    - [ ] Replace TV with a more reasonable one
+- [ ] Make Human Robot Hybrid
+  - [ ] Telescoping arm
+    - [x] Remake Hands [<sup>|Pictures| </sup>](######-Hand-Pics)
+      - [x] Finish Holo Hand Editor
+        - [x] Finish Buttons
+        - [x] Finish Combo Mode
+      - [x] Finish Hand Movements
+    - [ ] Make hand attachments
+      - [ ] Make flashlight
+        - [x] Make Model
+        - [ ] Impliment Model
+      - [ ] Make Portal Gun
+        - [ ] Make Model [<sup>|Inspiration| </sup>](######-Inspiration)
+        - [ ] Impliment Model
+      - [ ] Cleaner/ Soap
+        - [ ] Make Model [<sup>|Inspiration| </sup>](######-Inspiration) <sup> *Use as holder!* </sup>
+        - [ ] Impliment Model
+      - [ ] Cookie Emitter/ Container
+        - [ ] Make Model <sup> *Use Model from Soap!* </sup>
+        - [ ] Implement Model
+      - [ ] Pen
+        - [ ] Make Model <sup> *Possibly use model from Soap?* </sup>
+        - [ ] Implement Model
+      - [ ] Actual Gun
+        - [ ] Make Model
+        - [ ] Implement Model
+  - [ ] Teleporting After Image
+    - [x] Make After Image
+    - [ ] Add Emitters <sup> _Objects **MUST** share the same center_ </sup>
+  - [ ] Shield <sup> *Consider making this a hand attachment*</sup>
+  - [ ] Face with different emotions
+    - [x] Make emotions
+      - [x] Make Eyes
+      - [x] Make Mouths
+    - [ ] Implement Emotions
+      - [x] Complete Normal Tells
+      - [ ] Complete Sad Tells
+      - [ ] Complete Angry Tells
+
+---
+# Pictures
+
+###### Hand Pics
+<img src="/Assets/Hand.png" width="270">
+
+###### Inspiration
+<img src="/Assets/download.jpg" width="375">
+<img src= "/Assets/budget-cuts-1.png" width = "375">
