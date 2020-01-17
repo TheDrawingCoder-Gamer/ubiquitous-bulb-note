@@ -16,19 +16,19 @@
       - [x] Finish Hand Movements
     - [ ] Make hand attachments
       - [ ] Make flashlight
-        - [x] Make Model
+        - [ ] Make Model
         - [ ] Impliment Model
       - [ ] Make Portal Gun
         - [ ] Make Model [<sup>|Inspiration| </sup>](######-Inspiration)
         - [ ] Impliment Model
       - [ ] Cleaner/ Soap
-        - [ ] Make Model [<sup>|Inspiration| </sup>](######-Inspiration) <sup> *Use as holder!* </sup>
+        - [x] Make Model [<sup>|Inspiration| </sup>](######-Inspiration) <sup> *Use as holder!* </sup>
         - [ ] Impliment Model
       - [ ] Cookie Emitter/ Container
-        - [ ] Make Model <sup> *Use Model from Soap!* </sup>
+        - [x] Make Model <sup> *Use Model from Soap!* </sup>
         - [ ] Implement Model
       - [ ] Pen    
-        - [ ] Make Model <sup> *Possibly use model from Soap?* </sup>
+        - [x] Make Model <sup> *Possibly use model from Soap?* </sup>
         - [ ] Implement Model
       - [ ] Actual Gun
         - [ ] Make Model
@@ -37,14 +37,14 @@
     - [x] Make After Image
     - [ ] Add Emitters <sup> _Objects **MUST** share the same center_ </sup>
   - [ ] Shield <sup> *Consider making this a hand attachment*</sup>
-  - [ ] Face with different emotions
+  - [x] Face with different emotions
     - [x] Make emotions
       - [x] Make Eyes
       - [x] Make Mouths
-    - [ ] Implement Emotions
+    - [x] Implement Emotions
       - [x] Complete Normal Tells
-      - [ ] Complete Sad Tells
-      - [ ] Complete Angry Tells
+      - [x] Complete Sad Tells
+      - [x] Complete Angry Tells
 
 ---
 # Pictures
