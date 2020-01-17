@@ -15,20 +15,23 @@
         - [x] Finish Combo Mode
       - [x] Finish Hand Movements
     - [ ] Make hand attachments
+      - [x] Make Base Grab Model
+        - [ ] Translocator [<sup>|Inspiration|</sup>](######-Inspiration)
+        - [ ] Grabby Things [<sup>|Inspiration|</sup>](######-Inspiration)
       - [ ] Make flashlight
         - [ ] Make Model
         - [ ] Impliment Model
       - [ ] Make Portal Gun
-        - [ ] Make Model [<sup>|Inspiration| </sup>](######-Inspiration)
+        - [ ] Make Model <sup>
         - [ ] Impliment Model
       - [ ] Cleaner/ Soap
-        - [x] Make Model [<sup>|Inspiration| </sup>](######-Inspiration) <sup> *Use as holder!* </sup>
+        - [ ] Make Model <sup> *Use Base Grab Model!* </sup>
         - [ ] Impliment Model
       - [ ] Cookie Emitter/ Container
-        - [x] Make Model <sup> *Use Model from Soap!* </sup>
+        - [ ] Make Model <sup> *Use Base Grab Model* </sup>
         - [ ] Implement Model
       - [ ] Pen
-        - [x] Make Model <sup> *Possibly use model from Soap?* </sup>
+        - [x] Make Model <sup> *Maybe Use Base Grab Model?* </sup>
         - [ ] Implement Model
       - [ ] Actual Gun
         - [ ] Make Model
