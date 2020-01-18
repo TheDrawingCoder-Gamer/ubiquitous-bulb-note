@@ -10,6 +10,7 @@
 - [ ] Make Human Robot Hybrid
   - [ ] Telescoping arm
     - [x] Remake Hands [<sup>|Pictures| </sup>](######-Hand-Pics)
+    Maybe Edit Holo thing to allow thumb to be in more positions?
       - [x] Finish Holo Hand Editor
         - [x] Finish Buttons
         - [x] Finish Combo Mode
@@ -26,12 +27,14 @@
       - [x] Complete Normal Tells
       - [x] Complete Sad Tells
       - [x] Complete Angry Tells
+  - [ ] Add tells to hands
 
 ---
 # Pictures
 
 ###### Hand Pics
 <img src="/Assets/Hand.png" width="270">
+<img src="/Assets/Fingers.jpg" width="270">
 
 ###### Inspiration
 <img src="/Assets/download.jpg" width="375">
