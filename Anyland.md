@@ -15,11 +15,12 @@
         - [x] Finish Buttons
         - [x] Finish Combo Mode
       - [x] Finish Hand Movements
-    - [ ] Remake Hands (Again Again) [<sup>|Pictures| </sup>](#hand-pics)
+    - [x] Remake Hands (Again Again) [<sup>|Pictures| </sup>](#hand-pics)
   - [x] Teleporting After Image
     - [x] Make After Image
-    - [x] Add Emitters <sup> _Objects **MUST** share the same center_ </sup>
-  - [ ] Shield <sup> *Consider making this a hand attachment*</sup>
+    - [ ] Add Emitters <sup> _Objects **MUST** share the same center_ </sup>
+      - Add emitters for new hands!
+  - [ ] Shield
   - [x] Face with different emotions
     - [x] Make emotions
       - [x] Make Eyes
