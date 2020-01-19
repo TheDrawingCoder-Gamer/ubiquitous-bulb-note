@@ -9,12 +9,13 @@
     - [ ] Replace TV with a more reasonable one
 - [ ] Make Human Robot Hybrid
   - [ ] Telescoping arm
-    - [x] Remake Hands [<sup>|Pictures| </sup>](######-Hand-Pics)
+    - [x] Remake Hands [<sup>|Pictures| </sup>](#-Hand-Pics)
     Maybe Edit Holo thing to allow thumb to be in more positions?
       - [x] Finish Holo Hand Editor
         - [x] Finish Buttons
         - [x] Finish Combo Mode
       - [x] Finish Hand Movements
+    - [ ] Remake Hands (Again Again) [<sup>|Pictures| </sup>](#-Hand-Pics)
   - [x] Teleporting After Image
     - [x] Make After Image
     - [x] Add Emitters <sup> _Objects **MUST** share the same center_ </sup>
