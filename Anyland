@@ -5,7 +5,7 @@
   - [ ] Create New Movie Theater
   - [ ] Add Living Room
     - [ ] Create Table
-    - [ ] Hang More Posters (?)
+    - [x] Hang More Posters
     - [ ] Replace TV with a more reasonable one
 - [ ] Make Human Robot Hybrid
   - [ ] Telescoping arm
@@ -35,6 +35,10 @@
 ###### Hand Pics
 <img src="/Assets/Hand.png" width="270">
 <img src="/Assets/Fingers.jpg" width="270">
+<img src="/Assets/FrontHand.jpg" width="270">
+<img src="/Assets/BackHand.jpg" width="270">
+<img src="/Assets/SideHand.jpg" width="270">
+<img src="/Assets/MarkerHand.jpg" width="270">
 
 ###### Inspiration
 <img src="/Assets/download.jpg" width="375">
