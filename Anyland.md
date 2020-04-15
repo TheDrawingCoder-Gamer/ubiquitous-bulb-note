@@ -8,8 +8,8 @@
     - [x] Hang More Posters
     - [ ] Replace TV with a more reasonable one
 - [ ] Make New Body
-  - [ ] Robot Feet
-      - [ ] Send feet pics
+  - [x] Robot Feet
+      - [x] Send feet pics
   - [ ] Telescoping arm
     - [x] ~~Remake Hands [<sup>|Pictures| </sup>](#hand-pics)~~
       - [x] Finish Holo Hand Editor
@@ -30,7 +30,16 @@
       - [ ] Complete Sad Tells
       - [ ] Complete Angry Tells
     - [ ] Add tells to hands
-
+  - [ ] Splatoon
+    - [ ] Player bodies
+        - [ ] Player Heads
+          - [ ] Special Hair
+        - [ ] Player Torso
+        - [ ] Player hands
+    - [ ] Weapons
+      - [ ] Main
+      - [ ] Sub
+      - [ ] Special
 ---
 # Pictures
 
